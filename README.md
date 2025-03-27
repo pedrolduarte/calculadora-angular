@@ -1,27 +1,26 @@
-## Calculadora
+# ️➗ Calculadora
 
-Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.2.
+- Uma calculadora interativa e funcional, desenvolvida com **Angular**, para realizar operações matemáticas de forma simples e prática.
 
-## Servidor de Desenvolvimento
+## 🚀 Tecnologias
 
-Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. A aplicação será recarregada automaticamente se você modificar qualquer arquivo de origem.
+- Angular CLI
+- TypeScript
+- HTML e CSS
 
-## Estrutura de Código
+## ⚡ Instalação
 
-Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- `git clone https://github.com/pedrolduarte/calculadora-angular.git`
+- `cd calculadora-angular`
+- `npm install`
+- `ng serve`
 
-## Compilação
+## ⚙️ Comandos úteis
 
-Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`.
+- Criar um novo componente: `ng generate component nome-do-componente`
+- Executar testes unitários: `ng test`
+- Executar testes end-to-end: `ng e2e`
 
-## Execução de Testes Unitários
+## 📖 Mais informações
 
-Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
-
-## Execução de Testes End-to-End
-
-Execute `ng e2e` para executar os testes end-to-end via uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente capacidades de teste end-to-end.
-
-## Ajuda Adicional
-
-Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
+- Para mais detalhes, execute: `ng help`
